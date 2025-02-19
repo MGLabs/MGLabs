@@ -1,5 +1,6 @@
-### Hi there 👋
-te4st
+Hi there 👋
+I create native Android applications in Kotlin and Java. If you can't find me at the keyboard (rare), look for me on the snowboard slopes 🏂.
+
 
 <!--
 **MGLabs/MGLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
