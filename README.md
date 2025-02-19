@@ -1,10 +1,10 @@
 Hi there 👋
-I create native Android applications in Kotlin and Java. If you can't find me at the keyboard (rare), look for me on the snowboard slopes 🏂.
+I create native Android applications in Kotlin and Java. If you can't find me at the keyboard (rare), look for me on the snowboard slopes 🏂./br
 [LinkedIn](https://www.linkedin.com/in/mglabs)
-[MGLabstudio](www.mglabstudio.com)
+[MGLabstudio](https://mglabs.notion.site/MGlabs-Studio-65c2c0471840460e90e21b73eb538320)
 
 
-https://bsky.app/profile/haacked.com
+
 <!--
 **MGLabs/MGLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
