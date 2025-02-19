@@ -1,7 +1,6 @@
 Hi there 👋
 I create native Android applications in Kotlin and Java. If you can't find me at the keyboard (rare), look for me on the snowboard slopes 🏂.
 
-E se continuo ad aggioungere modifiche?
 
 
 
