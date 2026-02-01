@@ -1,5 +1,6 @@
 Hi there 👋  
-I create native Android applications in Kotlin and Java. If you can't find me at the keyboard (rare), look for me on the snowboard slopes 🏂.  
+Long‑time mobile developer. Now diving into cyber security to learn how to protect apps… even from myself.
+If I’m not at the keyboard (rare), you’ll find me gliding on a snowboard somewhere. 🏂.  
 [LinkedIn](https://www.linkedin.com/in/mglabs)  
 [MGLabstudio](https://mglabs.notion.site/MGlabs-Studio-65c2c0471840460e90e21b73eb538320)
 
